@@ -1,0 +1,10 @@
+Package: proga4
+Version: 1.0
+Section: unknown
+Priority: optional
+Depends: libc6
+Architecture: amd64
+Essential: no
+Installed-Size: 16
+Maintainer: MrFantomas <kimmv35679@gmail.com>
+Description: Program 4 from Lecture 3
